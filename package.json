@@ -1,0 +1,24 @@
+{
+  "name": "random-str-vocairius",
+  "version": "1.0.0",
+  "description": "Random string message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vocairius/random-str-vocairius.git"
+  },
+  "keywords": [],
+  "author": "Nicolas Murcia (nicolas.murcia8487@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vocairius/random-str-vocairius/issues"
+  },
+  "homepage": "https://github.com/vocairius/random-str-vocairius#readme",
+  "bin": {
+    "random-str-vocairius": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
